@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serge</h1>
 <h3 align="center">Student of the Faculty of Backend. Cohort №9+ Yandex.Practicum</h3>
 
-- 🌱 I’m currently learning **Django, DRF**
-
-- 📫 How to reach me **erges699@gmail.com**
-
-```
+```Python
 class Erges699:
 
     def __init__(self):
