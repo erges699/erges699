@@ -7,7 +7,7 @@ class Erges699:
     def __init__(self):
         self.username = 'erges699'
         self.name = 'Serge Balyaba'
-        self.telegramm = '@sergebalyaba'
+        self.telegram = '@sergebalyaba'
         self.code = {
             'frontend': ['HTML', 'CSS'],
             'backend': ['Python', 'Flask', 'Django', 'FAST API'],
