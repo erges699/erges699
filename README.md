@@ -9,7 +9,7 @@ class Erges699:
         self.name = 'Serge Balyaba'
         self.telegram = '@sergebalyaba'
         self.code = {
-            'frontend': ['HTML', 'CSS'],
+            'frontend': ['HTML', 'CSS', 'Bootstrap'],
             'backend': ['Python', 'Flask', 'Django', 'FAST API'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
             'devops': ['Docker', 'Nginx', 'GitHub Actions'],
